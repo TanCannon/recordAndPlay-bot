@@ -1,0 +1,1 @@
+# This is an empty requirements.txt file since the script does not have any external dependencies.

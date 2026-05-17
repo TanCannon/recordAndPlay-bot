@@ -1,0 +1,15 @@
+How to use:
+<Controls>
+1. Use arrow keys to control the car(rectangel).
+2. Hold 'w' to record stop or break of the car.
+3. Press 's' to show the data stored about the car travelled path.
+4. Press 'p' to play the recorded travelled path data.
+5. Press 'r' to reset or clear the current car travelled path data.
+
+issues:
+1. issues:cannot use variable speed
+
+updates:
+1. the car can rotate now.
+2. I have improved the environment of the scence:
+	- added tables
